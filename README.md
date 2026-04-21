@@ -82,7 +82,7 @@ A production-ready **E-Commerce Backend** built with **Spring Boot 3.2.0** and *
 
 ### Clone & Run
 ```bash
-git clone <your-repo-url>
+git clone git clone https://github.com/Sparkydev007/springboot-ecommerce-backend.git
 cd ecommerce-backend
 mvn spring-boot:run
 ```
